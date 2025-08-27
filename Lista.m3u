@@ -1,6 +1,80 @@
 #EXTM3U
+
+########### Walliptv : tv online ########### Walliptv: tv online ########### Walliptv: tv online ########### Walliptv: tv online ########### Walliptv: tv online ########### Walliptv: tv online ########### Walliptv: tv online ################
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://reidoscanais.pro/img/band.png" group-title="Brasil: tv online", Band
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://reidoscanais.pro/img/band.png" group-title="Brasil: tv online", Band Arapuan 
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://reidoscanais.pro/img/record.png"   group-title="Brasil: tv online","Record MT 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://reidoscanais.pro/img/record.png"   group-title="Brasil: tv online","Record MT 
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Brasil: tv online", RECORD 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431 
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Brasil: tv online", RECORD NEWS  
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal1" tvg-name="Canal de Exemplo 1" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Brasil: tv online", CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrqW5fNUPsrp3l_l2-e-cD-cScc7dhp_7_IcURCrNP2nBexX1k56QaA41JqlOQ7Vsie2U&usqp=CAU" group-title="Brasil: tv online", CIC                  
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png"  group-title="Brasil: tv online", SBT Cidade Verde  
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png"  group-title="Brasil: tv online", SBT TV Guajara
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://reidoscanais.pro/img/redetv.png"  group-title="Brasil: tv online", RedeTV! PR
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://reidoscanais.pro/img/redetv.png"  group-title="Brasil: tv online", RedeTV! Pantanal
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://i.imgur.com/hcApLfE.png"  group-title="Brasil: tv online", Cultura pr
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://i.imgur.com/hcApLfE.png"  group-title="Brasil: tv online", Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/512px-TV_Brasil_logo_2019.svg.png"  group-title="Brasil: tv online", TV Brasil
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/512px-TV_Brasil_logo_2019.svg.png"  group-title="Brasil: tv online", TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8 
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b4/Rede_S%C3%A9culo_21.jpg"group-title="Brasil: tv online", SECULO 21	  
+https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8 
  
-########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ########### Brasil: anime e tokusatsu ################
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"  group-title="Brasil: tv online", TV Aparecida 	   
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"  group-title="Brasil: tv online", TV Aparecida Goiás 
+https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8 
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://i.imgur.com/mP1qfp2.png"  group-title="Brasil: tv online", REDE VIDA	   
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8 
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="file:///C:/Users/wall/Downloads/imagem_convertida.png" " group-title="Brasil: tv online", REDE VIDA 2  
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_2.m3u8
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://i.imgur.com/8Fu7fgg.jpeg" group-title="Brasil: tv online", TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8 
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://i.imgur.com/hcApLfE.png"  group-title="Brasil: tv online", GOSPEL CARTOON	   
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8 
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://i.imgur.com/xriuyix.png"  group-title="Brasil: tv online", Canal Gov	  
+https://canalgov-stream.ebc.com.br/index.m3u8:
+
+
+
+
+
+
+
+
+########### Walliptv : anime e tokusatsu ########### Walliptv: anime e tokusatsu ########### Walliptv: anime e tokusatsu ########### Walliptv: anime e tokusatsu ########### Walliptv: anime e tokusatsu ########### Walliptv: anime e tokusatsu ########### Walliptv: anime e tokusatsu ################
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil ~ link 2 
